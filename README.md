@@ -35,20 +35,17 @@
 <a href="https://github.com/Shieda7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shieda7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shieda7&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
+### 💻 Tecnologias e linguagens
 
-## Tecnologias e linguagens 💻
-
-[![My Skills](https://skillicons.dev/icons?i=java,docker,html,css,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,docker,html,css,js,python,cs)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,mongodb,mysql,postgres,hibernate)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,intellij,vscode,postman)](https://skillicons.dev)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,windows,idea,vscode,git,github,postman,kafka,kubernetes,rabbitmq)](https://skillicons.dev)
 
 ---
 
